@@ -5,7 +5,7 @@ Although recent studies have hypothesized that, keeping other factors constant, 
 Data scientists lay out the hypothesis that newer statistical classification methods derived from data mining and machine learning methods are capable of reducing the prediction error manifolds and help cardiologists to conduct a two-tailed preliminary prediction of abnormality of blood pressure in an individual.
 # Objective
 Employing statistical techniques, conduct a preliminary prognosis of Hypertension/hypotension, based on the level of hemoglobin and genetic history of the individual. [Please refer to the Data Dictionary to know more about these variables]
-
-
-
+.
+.
+.
 ![alt-text](https://github.com/Anubhavsr54/Classification-of-Patients-with-Abnormal-Blood-Pressure/blob/main/Screenshot%20(271).png)
